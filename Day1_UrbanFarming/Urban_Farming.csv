@@ -1,0 +1,7 @@
+Farm_ID,City,Crop_Type,Area_m2,Harvest_kg,Year
+F001,Lagos,Tomatoes,500,1200,2023
+F002,Abuja,Lettuce,300,800,2023
+F003,Ibadan,Spinach,200,600,2023
+F004,Lagos,Maize,700,2500,2024
+F005,Abuja,Tomatoes,400,1000,2024
+F006,Ibadan,Lettuce,250,700,2024
