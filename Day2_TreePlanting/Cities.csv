@@ -1,0 +1,6 @@
+City_ID,City_Name,Population,Region,Coordinates
+1,Lagos,15000000,South-West,"6.5244° N, 3.3792° E"
+2,Abuja,3600000,North-Central,"9.0579° N, 7.4951° E"
+3,Ibadan,3500000,South-West,"7.3775° N, 3.9470° E"
+4,Kano,4000000,North-West,"12.0022° N, 8.5919° E"
+5,Port Harcourt,3000000,South-South,"4.8156° N, 7.0498° E"

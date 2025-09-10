@@ -1,0 +1,7 @@
+Species_ID,Tree_Species,Growth_Rate,CO2_Absorption
+1,Neem,Medium,48
+2,Mahogany,Slow,65
+3,Iroko,Medium,55
+4,Teak,Fast,40
+5,Gmelina,Fast,38
+6,Cashew,Medium,30
