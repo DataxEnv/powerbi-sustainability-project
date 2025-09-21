@@ -27,9 +27,15 @@ Subsequent folders (**Day 2–6**) will cover:
 ---
 
 ## 🌍 Day 1 – Urban Farming  
-- Generated a sample dataset: **`Urban_Farming.csv`**  
-- Loaded the dataset into Power BI  
-- Explored the Power BI interface  
-- Built a **basic visualization and insights dashboard** (`day1_visualization.png` and  `day1_insights.png`)
+- Designed and generated a sample dataset: **`Urban_Farming.csv`**  
+- Imported data into Power BI and explored the interface  
+- Built a **basic visualization and insights dashboard** (`day1_visualization.png` and `day1_insights.png`)  
+- Focus: city-level crop yields and production patterns  
 
 ---
+
+## 🌳 Day 2 – Tree Planting Analysis  
+- Developed a **star schema** with fact and dimension tables (Cities, Species, Tree_Planting)  
+- Created key **DAX measures** (Total Trees, Avg Trees per Planting, CO₂ Absorption Estimate, % by Species)  
+- Designed an interactive dashboard with region, city, and species breakdowns  
+- **Key Insight:** Southwest region & Port Harcourt lead in planting efforts. 
