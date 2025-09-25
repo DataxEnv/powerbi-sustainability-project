@@ -31,6 +31,7 @@ Subsequent folders (**Day 2–6**) will cover:
 - Imported data into Power BI and explored the interface  
 - Built a **basic visualization and insights dashboard** (`day1_visualization.png` and `day1_insights.png`)  
 - Focus: city-level crop yields and production patterns  
+<img width="500" height="400" alt="day1_visualization" src="https://github.com/user-attachments/assets/eab25b34-0135-4d9f-9db2-c28f815a69bd" />
 
 ---
 
@@ -38,4 +39,7 @@ Subsequent folders (**Day 2–6**) will cover:
 - Developed a **star schema** with fact and dimension tables (Cities, Species, Tree_Planting)  
 - Created key **DAX measures** (Total Trees, Avg Trees per Planting, CO₂ Absorption Estimate, % by Species)  
 - Designed an interactive dashboard with region, city, and species breakdowns  
-- **Key Insight:** Southwest region & Port Harcourt lead in planting efforts. 
+- **Key Insight:** Southwest region & Port Harcourt lead in planting efforts.
+  
+<img width="500" height="400" alt="day2_visualization" src="https://github.com/user-attachments/assets/c0a13be1-2ba9-47d7-a972-1c46e86de817" />
+        
