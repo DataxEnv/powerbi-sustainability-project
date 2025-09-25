@@ -1,0 +1,7 @@
+Crop_ID,Crop_Name,Crop_Type,Sensitivity_Temperature,Sensitivity_Rainfall
+C01,Maize,Cereal,High,Medium
+C02,Rice,Cereal,Medium,High
+C03,Yam,Root/Tuber,Medium,Low
+C04,Soybean,Legume,High,Medium
+C05,Cassava,Root/Tuber,Low,Medium
+C06,Millet,Cereal,Medium,Low

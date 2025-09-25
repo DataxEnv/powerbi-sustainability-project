@@ -1,0 +1,9 @@
+Region_ID,Region_Name,Zone,Avg_Population,Coordinates
+R01,Kano,East,9553974,"(5.288, 4.841)"
+R02,Kaduna,North,15428545,"(10.862, 10.891)"
+R03,Lagos,South,7813365,"(11.391, 3.996)"
+R04,Port Harcourt,North,13606243,"(8.113, 8.436)"
+R05,Ibadan,North,11828366,"(11.176, 4.349)"
+R06,Abuja,South,13548718,"(7.681, 9.947)"
+R07,Enugu,East,4244702,"(9.386, 8.09)"
+R08,Maiduguri,North,9726890,"(9.391, 10.441)"
