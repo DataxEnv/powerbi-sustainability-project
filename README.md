@@ -55,19 +55,44 @@ The focus for Day 3 was not only on building the dashboard but also on practicin
 <img width="500" height="400" alt="day3_dashboard" src="https://github.com/user-attachments/assets/655fc0ab-7f3d-48ac-8cbd-aa8a9593121f" />
 
 ### Day 3 insights.
-Agricultural yields are heavily influenced by climate — rainfall, temperature, and extreme events. This analysis explores the relationship between climate factors (rainfall, temperature, and extreme weather events) and agricultural yield across regions from 2015–2024. The goal was to examine whether shifts in climate patterns are correlated with changes in crop productivity.
+Agricultural yields are heavily influenced by climate — rainfall, temperature, and extreme events. This dashboard explores how climate patterns over the past decade have shaped agricultural yields across regions. The goal was to examine whether shifts in climate patterns are correlated with changes in crop productivity.
 
-#### 📊 Key Visuals
-- Area Chart – Average rainfall & temperature trends (2015–2024).
-- Ribbon Chart – Total yield by crop type and year, showing shifts in dominant crops.
-- Scatter Plots – Correlation of yield vs rainfall, and yield vs temperature.
-- Combination Charts – Yield compared with rainfall/temperature alongside extreme events.
-- Slicers – Filter by region and year to allow focused exploration.
+### 📊 Key Visuals & Insights
 
-The data shows clear patterns:
-- **Rainfall & Yield** → Moderate rainfall years tended to produce higher yields, while years with extreme drought/flood events saw sharp declines.
-- **Temperature & Yield** → Rising temperatures beyond certain thresholds correlated with reduced yields for sensitive crops.
-- **Crop Trends** → Some resilient crops maintained steady yields, while others declined under adverse climate conditions.
-- **Regional View** → Regions with better rainfall balance consistently outperformed drier or flood-prone regions.
+#### 1.  Climate Trends Over Time  
+*Area Chart* – Rising average temperatures alongside **declining rainfall**.  
+- A brief rainfall spike appears in 2018, but the long-term trend points downward.  
+- Temperatures climb steadily, signaling a **hotter, drier climate**.  
+ **Impact:** Farmers face less water and more heat, both of which threaten stable food production.
 
-In summary, the analysis reinforces that climate variability strongly impacts agricultural productivity, and adaptive crop planning is critical for sustainable farming.
+#### 2.  Crop Yield Leaders  
+*Ribbon Chart* – Cereals consistently dominate yields, followed by legumes and root/tuber crops.  
+- Yield levels fluctuate in response to rainfall and temperature shifts.  
+ **Impact:** Cereals remain resilient, but legumes (which need stable rainfall) show higher vulnerability.  
+
+#### 3.  Rainfall vs Yield  
+💧 *Scatter Plot* – A **positive correlation** emerges: as rainfall increases, yields rise. The regression line slopes upward, showing that water availability directly supports food output.  
+- Rainfall above ~1100 mm tends to push yields closer to **150K**.  
+- Lower rainfall years cluster around **135K–140K** yields.  
+
+
+#### 4.  Temperature vs Yield  
+🔥 *Scatter Plot* – A **negative correlation** is clear: The downward-sloping regression line shows that higher temperatures lead to lower yields.
+- Once average temperatures cross **228–230°C**, yields consistently fall below **140K**.  
+
+
+#### 5.  Extreme Events & Yield Performance  
+*Column-Line Combo Chart* – The effect of droughts, floods, and heatwaves.  
+- Yields dip sharply during **drought years**.  
+- Rainfall fluctuations add another layer of instability.  
+   **Impact:** Farmers aren’t just battling averages — it’s the *spikes and shocks* that devastate harvests.  
+
+
+### Conclusion  
+- Rainfall strongly supports yield growth.  
+- Rising temperatures undermine food security.  
+- Extreme events intensify risks, driving volatility in farming outcomes.  
+- Cereals dominate yields but climate pressures may challenge this resilience over time.  
+
+
+
