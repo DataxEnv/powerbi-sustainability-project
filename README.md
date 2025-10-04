@@ -43,14 +43,14 @@ Subsequent folders (**Day 2–6**) will cover:
   
 <img width="500" height="400" alt="day2_visualization" src="https://github.com/user-attachments/assets/c0a13be1-2ba9-47d7-a972-1c46e86de817" />
         
-
+---
 ## 🌾 Day 3 – Climate & Agriculture Yield 
 - Standardized and cleaned datasets.
 - Modeled data into a star schema with fact and dimension tables.
 - Created DAX measures for average rainfall, average temperature, total yield, and event-adjusted yield.
 - Built visualizations to highlight climate trends, yield distribution, and correlations.
 
-The focus for Day 3 was not only on building the dashboard but also on practicing data storytelling: translating visuals into meaningful insights.
+The focus for Day 3 was not only on building the dashboard but also on practicing **Data Storytelling**: translating visuals into meaningful insights.
 
 <img width="500" height="400" alt="day3_dashboard" src="https://github.com/user-attachments/assets/655fc0ab-7f3d-48ac-8cbd-aa8a9593121f" />
 
@@ -63,3 +63,11 @@ Agricultural yields are heavily influenced by climate — rainfall, temperature,
 - Scatter Plots – Correlation of yield vs rainfall, and yield vs temperature.
 - Combination Charts – Yield compared with rainfall/temperature alongside extreme events.
 - Slicers – Filter by region and year to allow focused exploration.
+
+The data shows clear patterns:
+- **Rainfall & Yield** → Moderate rainfall years tended to produce higher yields, while years with extreme drought/flood events saw sharp declines.
+- **Temperature & Yield** → Rising temperatures beyond certain thresholds correlated with reduced yields for sensitive crops.
+- **Crop Trends** → Some resilient crops maintained steady yields, while others declined under adverse climate conditions.
+- **Regional View** → Regions with better rainfall balance consistently outperformed drier or flood-prone regions.
+
+In summary, the analysis reinforces that climate variability strongly impacts agricultural productivity, and adaptive crop planning is critical for sustainable farming.
