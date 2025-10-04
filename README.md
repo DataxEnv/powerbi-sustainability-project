@@ -43,3 +43,23 @@ Subsequent folders (**Day 2–6**) will cover:
   
 <img width="500" height="400" alt="day2_visualization" src="https://github.com/user-attachments/assets/c0a13be1-2ba9-47d7-a972-1c46e86de817" />
         
+
+## 🌾 Day 3 – Climate & Agriculture Yield 
+- Standardized and cleaned datasets.
+- Modeled data into a star schema with fact and dimension tables.
+- Created DAX measures for average rainfall, average temperature, total yield, and event-adjusted yield.
+- Built visualizations to highlight climate trends, yield distribution, and correlations.
+
+The focus for Day 3 was not only on building the dashboard but also on practicing data storytelling: translating visuals into meaningful insights.
+
+<img width="500" height="400" alt="day3_dashboard" src="https://github.com/user-attachments/assets/655fc0ab-7f3d-48ac-8cbd-aa8a9593121f" />
+
+### Day 3 insights.
+Agricultural yields are heavily influenced by climate — rainfall, temperature, and extreme events. This analysis explores the relationship between climate factors (rainfall, temperature, and extreme weather events) and agricultural yield across regions from 2015–2024. The goal was to examine whether shifts in climate patterns are correlated with changes in crop productivity.
+
+#### 📊 Key Visuals
+- Area Chart – Average rainfall & temperature trends (2015–2024).
+- Ribbon Chart – Total yield by crop type and year, showing shifts in dominant crops.
+- Scatter Plots – Correlation of yield vs rainfall, and yield vs temperature.
+- Combination Charts – Yield compared with rainfall/temperature alongside extreme events.
+- Slicers – Filter by region and year to allow focused exploration.
