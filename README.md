@@ -1,6 +1,6 @@
 # 🌱 Power BI Sustainability Project  
 
-This repository documents my **6-day learning journey in Power BI**, built around a **sustainability and environmental** theme.  
+This repository documents my **learning journey in Power BI**, built around a **sustainability and environmental** theme.  
 The aim is to practice **data transformation, modeling, and visualization** while telling meaningful, data-driven stories on sustainability.  
 
 ---
